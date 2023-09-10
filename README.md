@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) for Churn Model: Price Sensitivity as a Driver of Churn
+# Churn Model: Price Sensitivity as a Driver of Churn
 
 ## Project Overview
 
