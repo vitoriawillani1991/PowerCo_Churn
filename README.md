@@ -1,5 +1,5 @@
 # Churn Model: Price Sensitivity as a Driver of Churn
-
+![churn](https://www.commonground.digital/wp-content/uploads/2023/01/Customer-Churn.webp)
 ## Project Overview
 
 The goal of this project is to build a churn model that aims to understand whether price sensitivity is the largest driver of customer churn. The project team from BCG believes that exploring the relationship between customer churn and price sensitivity could provide valuable insights for the client. To achieve this, we will perform an Exploratory Data Analysis (EDA) on the provided datasets to uncover initial patterns, trends, and potential correlations.
